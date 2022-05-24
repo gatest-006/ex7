@@ -17,7 +17,3 @@ jobs:
     steps:
       - name: useenvvar
         run: echo "var is ${{ env.SOMEVAR }}"
-<<<<<<< HEAD
-=======
-
->>>>>>> a0e30abe58273933afa84ce3d9ecd9d3b3ef2e7c
